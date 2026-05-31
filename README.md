@@ -53,9 +53,20 @@ These programs are designed as practice exercises for anyone learning Python bas
 
 ---
 
-## ▶️ How to Run
-Clone the repository and run any program using Python:
+## 📌 Additional Information
+- Written in **Python 3.10+** (required for `match-case`).  
+- Minor corrections applied:
+  - Fixed swapped outputs in **Days in Month** program.  
+  - Corrected misleading message in **Multiple of 3 or 7** program.  
+  - Fixed typos (Wednesday, Thursday, triangle spelling, etc.).  
+- Programs labeled “Java” are actually written in Python (Program 11 & 29).  
+- This repo can be used as:
+  - A **practice workbook** for beginners.  
+  - A **teaching resource** for instructors.  
+  - A **reference collection** for conditional logic examples.  
 
-##📌 Author
-Nisha Bhandare  
-GitHub: nishabhandare (github.com in Bing)
+---
+
+## 👩‍💻 Author
+**Nisha Bhandare**  
+GitHub: [nishabhandare](https://github.com/nishabhandare)
