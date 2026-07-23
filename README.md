@@ -1,4 +1,4 @@
-# Python Basic Programs
+# Python Basic Programs / Mini Project 
 
 This repository contains **30 beginner-friendly Python programs** that demonstrate the use of:
 - Conditional statements (`if`, `elif`, `else`)
